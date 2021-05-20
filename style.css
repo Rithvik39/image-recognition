@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(27, 231, 163);
+    color:grey ;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects , #object_name , #object_accuracy{
+    color: yellow;
+}
+#camera{
+    border: 2px dotted cadetblue;
+    height: 300px;
+    width: 350px;
+}
